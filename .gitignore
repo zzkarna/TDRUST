@@ -1,0 +1,11 @@
+/target/
+.env
+.env.*
+!.env.example
+.DS_Store
+/AGENTS.md
+/.agents/
+/.codex/
+/docs/
+/data/
+*.log
